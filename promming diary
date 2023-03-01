@@ -82,5 +82,16 @@ with open("file.dat","wb") as f:
 Learned topics of request methods like status_code,url,text,get,post.
 
 ===================================================================================
+01-03-2023
+started the concept of regular expressions which is re module
+Understood methods like compile,finditer,findall,search,match.
+Learned about metacharacters,specialcharacters,grouping.
+written simple codes to find email addresses from string passed and some codes to understand the concepts.
+Completed 2 assignments given by mam.
+'''
+From this text file, print user personal details present from line 3 to 9
+Then transaction from line 20-62,72-140, 151-189.
+'''
 
+==============================================================================================
 
