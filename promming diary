@@ -94,4 +94,15 @@ Then transaction from line 20-62,72-140, 151-189.
 '''
 
 ==============================================================================================
+02-03-2023
+started with the concept of beautiful soup module which helps in extracting the elements of html file.
+Completed and submitted the assignment of the day
+'''
+In this html, transaction are present. Use beautifulsoup to get transaction.
+Print details in below manner.
+(Date,Particulars, amount type, Amount, Balance amount)
+'''
+Tried beautifulSoup objects like find,findall,text,contents.
+extracting links from the website.
+=================================================================================================
 
