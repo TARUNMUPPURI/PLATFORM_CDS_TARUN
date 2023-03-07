@@ -109,10 +109,16 @@ extracting links from the website.
 Understood the concept of post and its methods.
 using the post method by sending payload.
 Tried to solve the assognment.
+'''
+https://www.npscra.nsdl.co.in/nav-search.php
+use this link and get data of table
+select_pfm=PFM013&js_Blank=select%2Cselect_pfm%2Cthe+PFM
+use this as payload and keep changes value of key select_pfm
+'''
 ======================================================================================================
 06-03-2023
 Completed the pending assignment.
 Started learning speechrecognition module.
 https://www.youtube.com/watch?v=mYUyaKmvu6Y
 =======================================================================================================
-
+07-03-2023
