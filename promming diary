@@ -122,3 +122,13 @@ Started learning speechrecognition module.
 https://www.youtube.com/watch?v=mYUyaKmvu6Y
 =======================================================================================================
 07-03-2023
+Understood converting audio file to text using assembly api.
+tried testcases with sbi capchas.
+Its taking long time to get output so need to change code using speechrecognition  and pydub module 
+========================================================================================================
+08-03-2023
+Tried to convert audio to text using speechrecognition and pydub module.
+concatinated the same audio twice then converted using recognize_google api then considering first 5 letters.
+
+=============================================================================================================
+
