@@ -131,4 +131,11 @@ Tried to convert audio to text using speechrecognition and pydub module.
 concatinated the same audio twice then converted using recognize_google api then considering first 5 letters.
 
 =============================================================================================================
+09-03-2023
+Tested the sbi_capcha code with canara audio samples.
+No test case is passed and giving some weird outputs.
+So tried to split the audio and convert each individual clip to text.
+Got some errors while doing this.
 
+======================================================================================================
+10-03-2023
