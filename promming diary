@@ -139,3 +139,11 @@ Got some errors while doing this.
 
 ======================================================================================================
 10-03-2023
+understood the way of clearning noise in audio wav file.
+Tried the code to clear unwanted noises and could not execute withour errors.
+=====================================================================================================
+13-03-2023
+downgraded the numpy module and sucessfully executed the noise cancellation code.
+Tried to split the audio file in to 5 parts and adding silence in between them.
+I could able to split.
+================================================================================================
