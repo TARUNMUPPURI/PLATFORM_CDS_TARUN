@@ -147,3 +147,10 @@ downgraded the numpy module and sucessfully executed the noise cancellation code
 Tried to split the audio file in to 5 parts and adding silence in between them.
 I could able to split.
 ================================================================================================
+14-03-2023
+Completed the program for spliting the audio file to 5 parts and merging using a sec of silence.
+Tried the output for 16 canara bank capchas testcases and redirected to xcel sheet.
+Program name is canara_split_merge.
+
+================================================================================================
+15-03-2023
