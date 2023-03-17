@@ -154,3 +154,13 @@ Program name is canara_split_merge.
 
 ================================================================================================
 15-03-2023
+Written the program to split the audio and replicate it then cleared noise multiple times and converted using googlerecognize api.
+We got some confidence exception after clearing that then we got urllib error.
+================================================================================================
+16-03-2023
+Still trying to resolve error meanwhile trying to convert image capcha to text.
+Tried with ocr module it was not giving expected output.
+Started learning about opencv and its methods
+==================================================================================================
+17-03-2023
+Trying to make some changes to the image like bluring ,smoothing both and checking for accracy.
