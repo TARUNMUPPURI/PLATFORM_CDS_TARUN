@@ -168,3 +168,28 @@ Trying to make some changes to the image like bluring ,smoothing both and checki
 20-03-2023
 I had internal exam in college
 ===============================================================================================
+21-03-2023
+Studied Opencv methods for image processing.
+ugadi celebrations from afternoon at office
+=====================================================
+22-03-2023
+On leave (Ugadi)
+======================================================
+23-03-2023
+Tried the methods of opencv for the requred output.
+=================================================================
+24-03-2023
+I could able to remove that unwanted line from capcha and tried converting using pytesseract
+Badminton tournments from 1pm.
+========================================================
+27-03-2023
+Used esyocr to convert the image to text.
+got nearly required output and added string replaces at the requied places.
+Tried to automate the code for testing for 100samples but could not do withe beautifulsoup because of not proper response.
+tried using selenium.
+============================================================
+28-03-2023
+could able to install selenium.
+and faced same problem.
+
+===============================================
