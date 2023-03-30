@@ -193,3 +193,15 @@ could able to install selenium.
 and faced same problem.
 
 ===============================================
+29-03-2023
+Code is updated to hit the canara bank website and download the html in one file.
+then getting encoded link using beautifulsoup.
+Decoding the image using base64.
+And tested for 30 testcases.
+=====================================================================
+30-03-2023
+Tried to handle the testcases giving 4 character output with resizing function.
+known about erode function and resizing function
+improved some replacing values.
+==================================================
+========================================================================
