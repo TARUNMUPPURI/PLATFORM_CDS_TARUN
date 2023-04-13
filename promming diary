@@ -178,3 +178,14 @@ First it ran sucessfully.
 then it was not identifying the text properly
 ===============================================
 10-04-2023
+===================================
+11-04-2023
+I made a folder for failed test cases.
+Then tried cracking kotak bank captcha
+====================================
+12-04-2023
+Found accuracy for the code by the dataset given by mam.
+34% for canara captchas.
+8/41 for kotak captchas.
+=========================================
+
