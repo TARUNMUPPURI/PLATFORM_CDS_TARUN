@@ -157,9 +157,23 @@ But didnot worked
 Prepared for presentaion.
 Had code demonstration with Beena,Bharat,DeepakGulati.
 ===============================================================
+05-03-2023
+Tried checking for alternative to easyocr.
+Tried to remove border of the image and that horizontal line.
+==========================================================
+06-03-2023
+Found the system and memory usage for executing the code.
+tested the same code for other 100 samples and done some replace modifications got 50% accuracy.
+? -> 8,2,7
+} -> 3,2
+; -> 7,3
+$ -> 8,3
+*->4,7
+
+================================================
 
 
-
+04-04-2023
 
 
 
