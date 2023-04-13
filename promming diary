@@ -142,18 +142,18 @@ Tried to handle the testcases giving 4 character output with resizing function.
 known about erode function and resizing function
 improved some replacing values.
 ==================================================
-31-03-2023
+31-04-2023
 The final code test45-100.py has the accuracy of 45%.
 Needed more enhancement.
 printed the output in excel file beside respective image.
 exploring more opencv.
 ========================================================================
-03-03-2023
+03-04-2023
 learned about erode,open,close,dilation methods.
 Tried to add to existed code to increase accuracy.
 But didnot worked
 ========================================================================
-04-03-2023
+04-04-2023
 Prepared for presentaion.
 Had code demonstration with Beena,Bharat,DeepakGulati.
 ===============================================================
@@ -161,7 +161,7 @@ Had code demonstration with Beena,Bharat,DeepakGulati.
 Tried checking for alternative to easyocr.
 Tried to remove border of the image and that horizontal line.
 ==========================================================
-06-03-2023
+06-04-2023
 Found the system and memory usage for executing the code.
 tested the same code for other 100 samples and done some replace modifications got 50% accuracy.
 ? -> 8,2,7
@@ -169,11 +169,12 @@ tested the same code for other 100 samples and done some replace modifications g
 ; -> 7,3
 $ -> 8,3
 *->4,7
-
+ERROR: Could not install packages due to an 
+EnvironmentError: [Errno 2] No such file or directory: '/home/muppuri/dist/paddleocr-x.x.x-py3-none-any.whl'
 ================================================
-
-
-04-04-2023
-
-
-
+07-04-2023
+Made virtual env for installing paddleocr.
+First it ran sucessfully.
+then it was not identifying the text properly
+===============================================
+10-04-2023
