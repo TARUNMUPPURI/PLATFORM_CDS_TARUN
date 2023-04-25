@@ -191,12 +191,24 @@ Found accuracy for the code by the dataset given by mam.
 13-04-2023
 ===========================================
 14-04-2023
+Tried to get the output by rotating the image, to get the skewed text.
+
 =============================================
 17-04-2023
+I could able to crop the image in to 5 parts such that each part contains single character
+Takes image input
+applys image processing
+finds countors
+crops the image
+saves it to each file
+then uses ocr to convert
 =======================================
 18-04-2023
+Known about minareatext() mehtod
 =======================================
 19-04-2023
+Tried to draw bounding boxes with angle using minarearect().
+But could not errect exactly becausing it is relying on multiple edges for angle.
 =======================================
 20-04-2023
 =======================================
