@@ -201,8 +201,13 @@ Found accuracy for the code by the dataset given by mam.
 20-04-2023
 =======================================
 21-04-2023
+Had internal exams in college
 =======================
 24-04-2023
+Added thresholding and modified little changes like erode and dilate.
 ===============================
 25-04-2023
+Tried to found out any alternatives for pytesseract OCR.
+signalum,normcap,pyocr but couldnot found any resources for those.
+Mam has given datasets to check the code.
 ==================================
