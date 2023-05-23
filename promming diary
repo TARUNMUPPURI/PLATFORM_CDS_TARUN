@@ -272,9 +272,17 @@ And almost 80% for 200 samples
 
 ====================================================
 11-05-2023
-
-
-
+Tried to do the same with bouding boxes.
+but could not because of discontinuity of pixcels
+========================================================
+11-05-2023 to 19-05-2023 exams at college
+========================================================
+19-05-2023
+added padding to image and checked accuracy for canara.
+it came around 40%.
+Cloned the gitlab repo and added my files in it then pushed.
+=========================================
+22-05-2023
 
 
 
