@@ -238,8 +238,40 @@ In mean time we tried cracking BOB image captcha.
 downloaded the samples 10 manually  and applied the preprocessing logic for the same
 ===========================================================
 02-05-2023
-Tried multiple cases of preprocessing and came with one sequence which given 35% accuracy to 100 samples
- 
+Tried multiple cases of preprocessing and came with one sequence which given 35% accuracy to 100 samples.
+Checked with the code which has given by mam and the accuracy was same and the samples which are giving correct output are different.
+
+===========================================================================
+03-05-2023
+I changed the pytesseract attribute to only numbers and added ,it became 41%.
+known about pytesseract.
+=========================================================================
+04-05-2023
+Worked on changing preprocess steps like changing kernel size,resizing image,blur and all.
+===================================================
+08-05-2023
+Tried minimizing the image for the ocr.
+Added thresholding in final step and given to pytesseract.
+============================================================
+09-05-2023
+Tried implementing proper padding in such a way that..
+Thresholding image after preprocessing.
+inverting the image (tezt is in white and background in black)
+add padding of black
+invert the image back again
+In this way i could able to add the padding properly
+
+========================================================
+10-05-2023
+
+The accuracy has been increased to 68%
+
+As we have multiple logics for preprocessing i implemented other logic when the length of op is not equal to 6
+it increased to 75% for first 100 samples
+And almost 80% for 200 samples
+
+====================================================
+11-05-2023
 
 
 
