@@ -223,3 +223,56 @@ Tried to found out any alternatives for pytesseract OCR.
 signalum,normcap,pyocr but couldnot found any resources for those.
 Mam has given datasets to check the code.
 ==================================
+26-04-2023
+Tried cropping the image using bouding boxes and coverting them in to text.
+Before converting in to text we tried rotating the image and taking the first single character occured.
+rotated -45 to 45 with 5 degree skip value
+==========================================
+27-04-2023
+Tried to draw same bouding boxes to canara captcha.
+It has become impossible because of discontinuity of pixcels
+checked the accuracy of canara captcha it has become 37
+===============================================
+28-04-2023
+In mean time we tried cracking BOB image captcha.
+downloaded the samples 10 manually  and applied the preprocessing logic for the same
+===========================================================
+02-05-2023
+Tried multiple cases of preprocessing and came with one sequence which given 35% accuracy to 100 samples
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
